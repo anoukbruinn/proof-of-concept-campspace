@@ -1,0 +1,25 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoukbruinn/proof-of-concept-campspace.git"
+  },
+  "author": "anouk bruin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoukbruinn/proof-of-concept-campspace/issues"
+  },
+  "homepage": "https://github.com/anoukbruinn/proof-of-concept-campspace#readme",
+  "dependencies": {
+    "socket.io": "^4.6.2"
+  }
+}
