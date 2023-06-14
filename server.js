@@ -10,7 +10,7 @@ const port = 700;
 
 //  Maak een route voor de index
 app.get("/", function (request, response) {
-  res.render("index", data);
+  response.render("index");
 });
 
 // Start express op, haal het ingestelde poortnummer op
