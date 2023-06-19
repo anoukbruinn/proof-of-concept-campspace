@@ -21,7 +21,5 @@
     "url": "https://github.com/anoukbruinn/proof-of-concept-campspace/issues"
   },
   "homepage": "https://github.com/anoukbruinn/proof-of-concept-campspace#readme",
-  "dependencies": {
-    "socket.io": "^4.6.2"
-  }
+  "dependencies": {}
 }
